@@ -3,6 +3,8 @@ import React, { Component } from 'react';
 import './App.css';
 import Navbar from './components/layout/Navbar';
 import UserItem from './components/users/UserItem';
+import FormPage from './components/layout/FormPage';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 class App extends Component {
   render() {
@@ -10,6 +12,10 @@ class App extends Component {
     const status = false;
 
     return (
+      <Router>
+                <Switch>
+                    <Route path="/FormPage" exact strict component={FormPage} />
+                </Switch>
       <React.Fragment>
         <h1 style={{ textAlign: "center" }}>This section is the basic use of props</h1>
         <h2>Hello {name}</h2>
@@ -17,6 +23,8 @@ class App extends Component {
         <Navbar topic="Github Project" />
         <UserItem />
       </React.Fragment>
+      </Router>
+
     );
   }
 }
