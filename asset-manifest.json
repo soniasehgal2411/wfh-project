@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wfh-project/static/css/main.6453eedf.chunk.css",
+    "main.js": "/wfh-project/static/js/main.c655187d.chunk.js",
+    "main.js.map": "/wfh-project/static/js/main.c655187d.chunk.js.map",
+    "runtime-main.js": "/wfh-project/static/js/runtime-main.adc42190.js",
+    "runtime-main.js.map": "/wfh-project/static/js/runtime-main.adc42190.js.map",
+    "static/css/2.de424728.chunk.css": "/wfh-project/static/css/2.de424728.chunk.css",
+    "static/js/2.2d970d7b.chunk.js": "/wfh-project/static/js/2.2d970d7b.chunk.js",
+    "static/js/2.2d970d7b.chunk.js.map": "/wfh-project/static/js/2.2d970d7b.chunk.js.map",
+    "index.html": "/wfh-project/index.html",
+    "precache-manifest.188a02b991a678787a7cacf120577d7a.js": "/wfh-project/precache-manifest.188a02b991a678787a7cacf120577d7a.js",
+    "service-worker.js": "/wfh-project/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/wfh-project/static/css/2.de424728.chunk.css.map",
+    "static/css/main.6453eedf.chunk.css.map": "/wfh-project/static/css/main.6453eedf.chunk.css.map",
+    "static/js/2.2d970d7b.chunk.js.LICENSE.txt": "/wfh-project/static/js/2.2d970d7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adc42190.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.2d970d7b.chunk.js",
+    "static/css/main.6453eedf.chunk.css",
+    "static/js/main.c655187d.chunk.js"
+  ]
+}
